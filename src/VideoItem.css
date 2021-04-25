@@ -1,0 +1,12 @@
+.VideoItem img {
+    height: 100%;
+    width: 100%;
+}
+
+.VideoItem:hover {
+    cursor: pointer;
+}
+
+.VideoItem {
+    background: black;
+}
